@@ -1,16 +1,13 @@
-### Hi there 👋
+:octocat: Hi! I teach high school computer programming in Arlington, Virginia. I teach a variety of classes ranging from introductory computer programming to AP Computer Science.
 
-<!--
-**MrJonesAPS/mrjonesaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub account keeps track of all of my school-related projects and code that I want to share with my students.
 
-Here are some ideas to get you started:
+[Check out my personal GitHub account here](https://github.com/cmj7gh)
+[I like to write about my projects on my blog here](https://chrismjon.es/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few repos that I'm especially proud of:
+- 🦆 [My classroom management and hallpass system](https://github.com/MrJonesAPS/Duck)
+- 🐈 [A sample pygame about herding cats](https://github.com/MrJonesAPS/Herding-Cats)
+- 📑 [My attempt to generate lecture slides using Jinja, Pandoc, and Reveal](https://github.com/MrJonesAPS/Slides)
+
+My goal is to be an excellent teacher, and I welcome any collaboration, feedback, or support on that journey ❤️
